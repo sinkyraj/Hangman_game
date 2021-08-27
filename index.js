@@ -1,3 +1,5 @@
+//A word Inquirer game
+
 const { green, red } = require('chalk')
 const { prompt }  = require('inquirer')
 //const words = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten']
